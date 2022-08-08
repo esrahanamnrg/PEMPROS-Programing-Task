@@ -15,7 +15,7 @@ Procedural programming is a course that Information Systems students study in th
 10. [T09 | File Operation](https://github.com/esrahanamnrg/PEMPROS-Programing-Task/tree/main/t09)
 
 ## `Programming Quiz Tasks📝`
-1. [Q01 | Quiz for Mid Exam]https://github.com/esrahanamnrg/PEMPROS-Programing-Task/tree/main/q01/2021-ge-q01-esrahanamnrg
+1. [Q01 | Quiz for Mid Exam](https://github.com/esrahanamnrg/PEMPROS-Programing-Task/tree/main/q01/2021-ge-q01-esrahanamnrg)
 2. [Q02 | Quiz for Final Exam](https://github.com/esrahanamnrg/PEMPROS-Programing-Task/tree/main/q02/2021-ge-q02-esrahanamnrg)
 
 ## `Programming Exam Tasks👩🏻‍💻👩🏻‍💻`
