@@ -14,10 +14,10 @@ Procedural programming is a course that Information Systems students study in th
 9. [T08 | Academic Simulator]
 10. [T09 | File Operation]
 
-## `Programming Quiz Tasks📝
+## `Programming Quiz Tasks📝`
 1. [Q01 | Quiz for Mid Exam]
 2. [Q02 | Quiz for Final Exam]
 
-## `Programming Exam Tasks👩🏻‍💻👩🏻‍💻
+## `Programming Exam Tasks👩🏻‍💻👩🏻‍💻`
 1. [M01 | Mid Exam]
 2. [F01 | Final Exam]
